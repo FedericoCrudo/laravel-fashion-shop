@@ -10942,8 +10942,8 @@ a.text-dark:focus {
   }
 }
 
-.card {
-  margin: 20px;
+.card-deck {
+  margin: 24px 20px;
 }
 
 .card-img-top {
